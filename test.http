@@ -1,0 +1,8 @@
+GET  http://localhost:4500/
+###
+POST http://localhost:4500/
+###
+PUT http://localhost:4500/
+###
+DELETE http://localhost:4500/
+###
